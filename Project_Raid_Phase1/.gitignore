@@ -1,0 +1,13 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+bin/
+obj/
+.vscode/
+.idea/
+.env
+appsettings.Development.local.json
+*.user
+*.suo
